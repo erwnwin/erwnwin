@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/df21cff2-3985-4fc5-8588-3fb45388e7ce)# 💫 About Me:
-I'm Erwin<br>I'm Freelance Programmer<br>I'm Fullstack Developer
+Hi👋 I'm Erwin<br>I'm Freelance Programmer<br>I'm Fullstack Developer
 
 
 ## 🌐 Socials:
