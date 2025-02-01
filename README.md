@@ -1,11 +1,11 @@
-# 👋 **Hi, I'm Erwin**  
-## 🚀 Freelance Programmer | Fullstack Developer
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7B500&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Erwin;🚀+Freelance+Programmer;💻+Fullstack+Developer" alt="Typing SVG" />
 </p>
 
-Saya seorang pengembang fullstack dengan pengalaman dalam berbagai teknologi backend dan frontend. Saya senang membangun solusi inovatif untuk berbagai kebutuhan digital.
+<div style="border: 2px solid #F7B500; padding: 10px; border-radius: 8px; width: 70%; margin: 20px auto; text-align: center;">
+  Saya seorang pengembang fullstack dengan pengalaman dalam berbagai teknologi backend dan frontend. Saya senang membangun solusi inovatif untuk berbagai kebutuhan digital.
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erwn.win_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@erwn.win_)  
