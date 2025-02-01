@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm Erwin<br>I'm Freelance Programmer<br>I'm Fullstack Developer
 
 
